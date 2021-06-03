@@ -1,7 +1,19 @@
 body{
     font-family: sans-serif;
-    background-color: lightgray;
-    text-align: center;
+    background-color: gray; 
+    color: black;
+}
+
+a {
+    text-decoration: none;
+    color:darkgray;
+    font-weight: lighter;
+}
+
+main{ 
+    /* background-color: blue; */
+    width: 70%;
+    margin: 0 auto;
 }
 
 /* CAMBIO RANDOM 1 */

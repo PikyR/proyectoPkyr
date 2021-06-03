@@ -1,3 +1,3 @@
-alert("Hola soy contacto.js");
+// alert("Hola soy contacto.js");
 
 // Cambio random 1 

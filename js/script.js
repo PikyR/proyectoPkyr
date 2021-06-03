@@ -1,3 +1,3 @@
-alert("hola soy script.js");
+// alert("hola soy script.js");
 
 // Cambio random 1 
