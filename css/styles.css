@@ -10,7 +10,7 @@ a {
     font-weight: lighter;
 }
 
-main{ 
+main, header{ 
     /* background-color: blue; */
     width: 70%;
     margin: 0 auto;
