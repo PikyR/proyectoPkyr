@@ -1,19 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
 body{
     font-family: sans-serif;
-    background-color: gray; 
-    color: black;
+    background-color: #BFC0C0; 
+    color: #353535;
 }
 
 a {
     text-decoration: none;
-    color:darkgray;
+    color:#EF8354;
     font-weight: lighter;
+}
+
+a:hover{
+    font-weight: bold;
 }
 
 main, header{ 
     /* background-color: blue; */
     width: 70%;
     margin: 0 auto;
+}
+
+header { 
+    background-color:#F26419;
+    padding: 20px 0px;
+}
+
+header h3{
+    font-size: 25px;
+    padding-left: 5px;
+    color: #BFC0C0;
+}
+
+h1{
+    padding-top: 5px;
+
 }
 
 /* CAMBIO RANDOM 1 */
